@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb.darlavinaykumar.fun"
+MONGODB_HOST: "mongodb-{{environment}}.darlavinaykumar.fun"
